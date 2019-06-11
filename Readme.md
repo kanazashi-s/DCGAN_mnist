@@ -26,6 +26,7 @@ kerasにまだあまり慣れてない方のために、最上位モジュール
 
 - 以上のような感じで、いい感じに学習できたと思います。
 - [前回のGAN](https://github.com/zashio/GAN_mnist)に見られたような砂っぽいノイズがほとんどないですね。成功してます。
+- ただ最後のほうは、やや似たような画像が多く生成されてしまっています。過学習気味といった感じですね。潜在変数の次元をもう少し上げてみるとか、正答率と損失関数の推移を見てみるとかで判断していきたいところ。
 
 ### Usage
 - [Google Colabratory](https://colab.research.google.com/)で、GITHUB上のNotebookを開けるので、zashioのDCGAN_mnist.ipynbを指定してください。
