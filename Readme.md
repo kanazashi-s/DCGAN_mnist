@@ -15,10 +15,10 @@ kerasにまだあまり慣れてない方のために、最上位モジュール
   - 1000回学習 : もうずいぶんと数字ですね。[前回のGAN](https://github.com/zashio/GAN_mnist)よりも学習が早いですね。
 ![1000回学習画像](https://github.com/zashio/DCGAN_mnist/blob/master/savefig/1000.png)
 
-  - 3000回学習
+  - 3000回学習 : 
 ![3000回学習画像](https://github.com/zashio/DCGAN_mnist/blob/master/savefig/3000.png)
 
-  - 5000回学習
+  - 5000回学習 : 
 ![5000回学習画像](https://github.com/zashio/DCGAN_mnist/blob/master/savefig/5000.png)
 
   - 15000回学習 : だいたいこの辺りが限界ってところでしょうか。
@@ -28,7 +28,7 @@ kerasにまだあまり慣れてない方のために、最上位モジュール
 - [前回のGAN](https://github.com/zashio/GAN_mnist)に見られたような砂っぽいノイズがほとんどないですね。成功してます。
 
 ### Usage
-- [Google Colabratory](https://colab.research.google.com/)で、GITHUB上のNotebookを開けるので、zashioのGAN_mnist.ipynbを指定してください。
+- [Google Colabratory](https://colab.research.google.com/)で、GITHUB上のNotebookを開けるので、zashioのDCGAN_mnist.ipynbを指定してください。
 - 開いたら、上のセルから順に、 Shift + Enter で実行していけば、学習がスタートします。
 
 ### Contribution
